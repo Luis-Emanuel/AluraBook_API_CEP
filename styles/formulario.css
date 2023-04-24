@@ -31,6 +31,7 @@
     border: 1px solid var(--azul);
     border-radius: 24px;
     padding: 1em;
+    margin-bottom: .4rem;
     width: 100%;
 }
 
