@@ -23,7 +23,6 @@ async function buscaEndereco(cep){
   } catch (erro){
     console.log(erro)
     mensagemErro.innerHTML = "<p>CEP invalido! Tente novamente.";
-
   }
 }
 
