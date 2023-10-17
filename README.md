@@ -17,7 +17,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://alura-book-api-cep.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://alura-book-api-cep-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
