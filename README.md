@@ -17,11 +17,11 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento]().
+[Veja o projeto final do curso em funcionamento](https://alura-book-api-cep.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
-<img src="https://github.com/Luis-Emanuel/AluraBook_API_CEP/blob/main/readme/img.png?raw=true" />
-<img src="https://github.com/Luis-Emanuel/AluraBook_API_CEP/blob/main/readme/img_1.png?raw=true" />
-<img src="https://github.com/Luis-Emanuel/AluraBook_API_CEP/blob/main/readme/img_2.png?raw=true" />
+<img src="https://github.com/Luis-Emanuel/AluraBook_API_CEP/blob/main/readme/img.png?raw=true"/>
+<img src="https://github.com/Luis-Emanuel/AluraBook_API_CEP/blob/main/readme/img_1.png?raw=true"/>
+<img src="https://github.com/Luis-Emanuel/AluraBook_API_CEP/blob/main/readme/img_2.png?raw=true"/>
 </div>
