@@ -7,8 +7,8 @@
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- `HTML`: O HTML tem um papel fundamental para a aplicação funcionar corretamente com a inserção dos elementos `<input >` que irão prover para o JavaScript a captura do nome do item e da quantidade de elementos. 
-- `CSS`: O CSS traz uma aparência e melhora a experiência do usuário além de trazer um entendimento de quais itens foram adicionados à lista, além de estilizar tornando mais visível o botão.
+- `HTML`: O HTML tem um papel fundamental para a aplicação funcionar corretamente com a inserção dos campos do formulário, além de trazer as informações necessárias para o usuário de forma organizada  
+- `CSS`: O CSS possibilita uma interface agradável ao usuário realçando o conteúdo do HTML
 - `JavaScript`: Através do JavaScript fazemos a requisição da API e tratamos os dados.
     
 ## 🔨 Funcionalidades do projeto
